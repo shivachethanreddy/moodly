@@ -13,10 +13,6 @@ Moodly is a fun AI-powered web app that detects your mood based on your text inp
 
 ---
 
-## 🎥 Demo
-
-Try it live: [Insert your Streamlit Cloud link here]
-
 ---
 
 ## 🧠 How It Works
@@ -38,3 +34,4 @@ Try it live: [Insert your Streamlit Cloud link here]
 git clone https://github.com/yourusername/moodly.git
 cd moodly
 pip install -r requirements.txt
+
