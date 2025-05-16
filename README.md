@@ -35,3 +35,8 @@ git clone https://github.com/yourusername/moodly.git
 cd moodly
 pip install -r requirements.txt
 
+## 🚀 Run the app
+bash
+Copy
+Edit
+
