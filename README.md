@@ -55,4 +55,5 @@ streamlit run moodly.py
 🧑‍💻 Author
 
 Made by shivachetanreddy
+
 ---
