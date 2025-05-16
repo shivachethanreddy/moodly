@@ -43,6 +43,7 @@ streamlit run moodly.py
 ```
 
 ##📚 Libraries Used
+```
 
 ->Streamlit
 
@@ -50,6 +51,6 @@ streamlit run moodly.py
 
 ->VADER Sentiment Analyzer (nltk.sentiment.vader)
 
-
+```
 
 
