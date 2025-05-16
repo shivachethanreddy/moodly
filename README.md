@@ -34,9 +34,13 @@ Moodly is a fun AI-powered web app that detects your mood based on your text inp
 git clone https://github.com/yourusername/moodly.git
 cd moodly
 pip install -r requirements.txt
+```
 
 ## 🚀 Run the app
-bash
-Copy
-Edit
+
+```bash
+streamlit run moodly.py
+```
+```
+
 
